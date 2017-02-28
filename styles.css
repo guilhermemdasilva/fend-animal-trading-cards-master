@@ -1,1 +1,38 @@
-/* add your CSS here */
+body {
+	font-family: Courier, Helvetica, sans-serif;
+}
+
+#card {
+  border: 1px solid #ccc;
+  width: 300px;
+  padding: 0 10px 10px 10px;
+  box-shadow: 7px 7px 5px #DDDDDD;
+  border-radius: 15px;
+  background-color: #F3ECE2;
+}
+
+#animal {
+  height: 200px;
+  width: 300px;
+  border-radius: 15px;
+}
+
+#info {
+  margin-top: 10px;
+  height: auto;
+  width: 300px;
+  border: 1px solid #ccc;
+  padding-bottom: 10px;
+  border-radius: 15px;
+}
+
+ul {
+  list-style: none;
+  font-size: 75%;
+  padding: 0 10px 0px 10px;
+}
+
+p {
+  font-size: 75%;
+  padding: 0 10px 0 10px;
+}
